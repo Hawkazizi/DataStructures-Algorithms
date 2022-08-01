@@ -36,9 +36,9 @@ class BinarySearchTree {
     }
   }
   lookup(value) {
-    //Code here
+    
   }
-  // remove
+  
 }
 
 const MyT = new BinarySearchTree();
